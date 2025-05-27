@@ -1,0 +1,3 @@
+nome=["j" "h" "o" "n"]
+for nome in nome:
+    print(nome)
